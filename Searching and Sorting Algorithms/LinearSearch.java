@@ -1,5 +1,5 @@
 /**
-	Linear Search finds the target element in linear order
+	Linear Search finds the target element in a linear order
 	if found, returns the index or returns -1. The array
 	doesn't have to be sorted.
 
