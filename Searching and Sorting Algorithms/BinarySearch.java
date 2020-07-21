@@ -30,13 +30,13 @@ public class BinarySearch{
 				high = mid - 1;
 			}
 		}
-		return low;
+		return -1;
 	}
 
 	public static void main(String[] args){
 		int arr[] = {2, 3, 4, 7, 15, 20, 25, 45};
 		int size = arr.length;
-		int target = 5;
+		int target = 7;
 
 		int result = binarySearch(arr, target);
 		if(result != -1){
