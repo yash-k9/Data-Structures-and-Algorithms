@@ -3,7 +3,7 @@
 	if found, returns the index or returns -1. The array
 	doesn't have to be sorted.
 
-	Time Complexity : O(n)
+	Time Complexity : O(n) 
 	Space Complexity: O(1)
 
 **/
