@@ -44,7 +44,6 @@ public class BinarySearch{
 		}
 		else{
 			System.out.println("The element is not found.");
-		}
-		
+		}	
 	}
 }
