@@ -1,16 +1,16 @@
-/*
+package search;/*
 	Binary Search algorithm searches for the target in a sorted array 
 	by dividing the array into half. It returns if search key is found
-	at mid. If search key is not found and  mid element is less than 
+	at mid. If search key is not found and  mid-element is less than
 	the target, it narrows down the interval to upper half and if the 
-	mid element is larger then narrows down the interval to lower half.
+	mid-element is larger than narrows down the interval to lower half.
 
 	Time Complexity : O(Log n)
 	Space Complexity : O(1)
 
 */
 
-public class BinarySearch{
+public class BinarySearchJava {
 
 	public static int binarySearch(int[] arr, int target){
 		int size = arr.length;

@@ -1,3 +1,5 @@
+package search;
+
 /**
 	Linear Search finds the target element in a linear order
 	if found, returns the index or returns -1. The array
@@ -8,7 +10,7 @@
 
 **/
 
-public class LinearSearch{
+public class LinearSearchJava {
 
 	public static int search(int[] arr, int target){
 		for(int i = 0; i < arr.length; i++){
