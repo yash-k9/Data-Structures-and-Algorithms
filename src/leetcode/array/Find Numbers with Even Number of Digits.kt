@@ -19,7 +19,7 @@ class FindNumbersWithEvenNumberOfDigits {
 
         while (num > 0) {
             count += 1
-            num = num / 10
+            num /= 10
         }
         return count
     }

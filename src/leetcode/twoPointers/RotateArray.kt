@@ -1,4 +1,4 @@
-package leetcode.array
+package leetcode.twoPointers
 
 class RotateArray {
     fun rotate(nums: IntArray, k: Int): Unit {

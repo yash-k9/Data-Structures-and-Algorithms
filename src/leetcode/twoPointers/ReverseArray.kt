@@ -1,4 +1,4 @@
-package leetcode.array
+package leetcode.twoPointers
 
 class ReverseArray {
     fun reverse(nums: IntArray, start: Int, end: Int){

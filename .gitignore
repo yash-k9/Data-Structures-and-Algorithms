@@ -1,7 +1,6 @@
 
 /shelf/
 /workspace.xml
-./.idea
+/.idea
 /out
 /lib
-.idea/codeStyles/codeStyleConfig.xml
