@@ -1,4 +1,4 @@
-package leetcode.twoPointers
+package leetcode.twopointers
 
 class TwoSumArraySorted {
     fun twoSum(numbers: IntArray, target: Int): IntArray {

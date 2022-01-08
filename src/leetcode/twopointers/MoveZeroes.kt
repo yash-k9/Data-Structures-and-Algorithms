@@ -1,4 +1,4 @@
-package leetcode.twoPointers
+package leetcode.twopointers
 
 class MoveZeroes {
     fun moveZeroes(nums: IntArray): Unit {
